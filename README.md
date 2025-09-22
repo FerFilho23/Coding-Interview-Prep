@@ -39,7 +39,8 @@ Inside you’ll find:
 ## 📚 Learning Path  
 
 ### 🔹 Data Structures and Algorithms
-- [Arrays & Strings]()  
+- [Arrays](./arrays/README.md)  
+- [Strings]()  
 - [Linked Lists]()  
 - [Stacks & Queues]()  
 - [Hashing]()  
