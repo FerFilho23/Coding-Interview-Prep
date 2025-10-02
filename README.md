@@ -26,7 +26,7 @@ Inside you’ll find:
 ## 📊 Questions Tracker
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arrays%20%26%20Strings-0-blue" alt="Arrays Badge"/>
+  <img src="https://img.shields.io/badge/Arrays%20%26%20Strings-1-blue" alt="Arrays Badge"/>
   <img src="https://img.shields.io/badge/Linked%20Lists-0-green" alt="Linked Lists Badge"/>
   <img src="https://img.shields.io/badge/Stacks%20%26%20Queues-0-orange" alt="Stacks Badge"/>
   <img src="https://img.shields.io/badge/Trees%20%26%20Graphs-0-yellow" alt="Trees Badge"/>
